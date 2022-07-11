@@ -28,6 +28,6 @@ At the last there will be the related product section which are the result based
 - If the business person wants to connect the company or many have to inquiry then there is the contact form is there for the people. Also company details, contact details are there for more information.
 
 
-## More Information and Scrrenshot in Below Blog Link
+## More Information and Screenshot in Below Blog Link
 
 ## https://darshantarsariya.blogspot.com/2022/07/summer-internship-2022-in-react.html
